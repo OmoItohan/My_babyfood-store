@@ -1,2 +1,2 @@
-# My_babyfood-store
+# BABY-FOOD_APP
 MINI JS PROJECT 2
